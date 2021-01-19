@@ -1,0 +1,5 @@
+Identifications des acteurs 
+Etant défini comme une entité extérieurs au système modélisé et qui interagit directement avec lui, il peut être une personne ou un système qui interagit avec le système étudié. Ainsi, les acteurs qui interagissent avec la GVIII_Avicole sont : 
+-	Manœuvre : personnel qui est chargé de remplir les mangeoires et les abreuvoirs, ramasser les œufs et nettoyer le sol. 
+-	Vétérinaire : personne qui administre les vaccins aux volailles.  
+-	Gérant : Toute qui établit la commande, encaisse la recette et couvre les dépenses. 
