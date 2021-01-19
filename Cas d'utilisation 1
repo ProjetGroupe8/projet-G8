@@ -1,0 +1,8 @@
+Les cas d’utilisation ou use case, constituant les notations d’UML ont pour but essentiel de définir le système du point de vue des utilisateurs et de fixer les limites précises du système, du sous-système d’une classe. Ils permettent d’impliquer les utilisateurs dès les premiers stades du développement pour exprimer leurs besoins.   
+Le diagramme de cas d’utilisation diffère la fonctionnalité du système en une unité cohérente, les cas d’utilisation, ayant un sens pour les acteurs qui est sont les rôles joués par un utilisateur humain ou un autre système qui interagit directement avec le système étudié. Dans un diagramme de cas d’utilisation on a : 
+	Les associations : elles relient les acteurs et les cas d’utilisation par une relation qui signifie << participe à>>. 
+	Inclusion ou <<include>> : relation existant de façon obligatoire entre les cas d’utilisation. 
+	Extension << Extends>> : Le cas d’utilisation de base en agrège implicitement un autre de façon optionnelle, un endroit spécifié indirectement dans celui qui précède à l’extension.  
+	Généralisation : les cas d’utilisation descendant héritent de la description de leurs parents communs. Chacun d’entre eux peut néanmoins comprendre des relations spécifiques supplémentaires avec d’autre acteur ou cas d’utilisation. 
+ 
+
